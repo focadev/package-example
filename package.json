@@ -1,6 +1,6 @@
 {
   "name": "@kurybr/package-example",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fix-I-T/docs-package-example.git"
+    "url": "git+https://github.com/kurybr/package-example.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Fix-I-T/docs-package-example/issues"
+    "url": "https://github.com/kurybr/package-example/issues"
   },
-  "homepage": "https://github.com/Fix-I-T/docs-package-example#readme"
+  "homepage": "https://github.com/kurybr/package-example#readme"
 }
