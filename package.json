@@ -8,12 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/focadev/package-example.git"
+    "url": "git+https://github.com/focadev/package-example.git",
+    "directory": "@focadev/package-example"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/focadev/package-example/issues"
   },
-  "homepage": "https://github.com/focadev/package-example#readme"
+  "homepage": "https://github.com/focadev/package-example#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/focadev"
+  }
 }
