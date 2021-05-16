@@ -1,5 +1,5 @@
 {
-  "name": "@kurybr/package-example",
+  "name": "@focadev/package-example",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kurybr/package-example.git"
+    "url": "git+https://github.com/focadev/package-example.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kurybr/package-example/issues"
+    "url": "https://github.com/focadev/package-example/issues"
   },
-  "homepage": "https://github.com/kurybr/package-example#readme"
+  "homepage": "https://github.com/focadev/package-example#readme"
 }
